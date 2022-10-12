@@ -26,7 +26,7 @@ Manage assets for IT operations
 
 ## Documentation and resources
 
-* Yunohost app: <https://github.com/YunoHost-Apps/snipeit_ynh>
+* YunoHost app: <https://github.com/YunoHost-Apps/snipeit_ynh>
 * Official app website: <https://snipeitapp.com>
 * Official admin documentation: <https://snipe-it.readme.io/docs>
 * Upstream app code repository: <https://github.com/snipe/snipe-it>
